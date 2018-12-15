@@ -1,0 +1,49 @@
+{
+  "name": "hou-music-player",
+  "version": "1.0.0",
+  "description": "react music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houxiangr/hou-music-player.git"
+  },
+  "keywords": [
+    "music",
+    "player"
+  ],
+  "author": "houxiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houxiangr/hou-music-player/issues"
+  },
+  "homepage": "https://github.com/houxiangr/hou-music-player#readme",
+  "dependencies": {
+    "pubsub-js": "^1.7.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-hot-loader": "^4.6.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-react-transform": "^3.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "json-loader": "^0.5.7",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
